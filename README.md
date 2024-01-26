@@ -7,6 +7,7 @@ Tarih İconu altında, kullanıcının kalan kullanım hakları görüntülenir.
 Hediye İconu bölümü, kullanıcılara rastgele şekilde dakika, SMS veya internet hediyesi verme imkanı sunar. Bu özellik, kullanıcılara sürpriz avantajlar sağlayarak deneyimlerini artırır. Kullanıcılar, bu alandan gelen hediyeleri görüntüleyebilir ve kullanabilir.
 
 Bu anasayfa, kullanıcıların hesaplarına dair geniş bir bilgi setine kolayca erişmelerini sağlayarak kullanıcı deneyimini geliştirmeyi amaçlar. Hesap bilgileri, iletişim geçmişi ve kullanım hakları gibi önemli bilgiler kullanıcı dostu bir arayüzle sunularak, kullanıcıların hattıyla ilgili kontrolünü artırmayı hedefler.
+
  MOBİL KISMI 
 ![image](https://github.com/Entrocelll-Project/Project-Manager-/assets/135699517/e241d639-d974-4de0-9083-0d13001cb21e)
 ![image](https://github.com/Entrocelll-Project/Project-Manager-/assets/135699517/1482d806-ff5c-450c-bfb9-f5cfaae4ad49)
