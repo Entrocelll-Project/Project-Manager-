@@ -7,19 +7,11 @@ Tarih İconu altında, kullanıcının kalan kullanım hakları görüntülenir.
 Hediye İconu bölümü, kullanıcılara rastgele şekilde dakika, SMS veya internet hediyesi verme imkanı sunar. Bu özellik, kullanıcılara sürpriz avantajlar sağlayarak deneyimlerini artırır. Kullanıcılar, bu alandan gelen hediyeleri görüntüleyebilir ve kullanabilir.
 
 Bu anasayfa, kullanıcıların hesaplarına dair geniş bir bilgi setine kolayca erişmelerini sağlayarak kullanıcı deneyimini geliştirmeyi amaçlar. Hesap bilgileri, iletişim geçmişi ve kullanım hakları gibi önemli bilgiler kullanıcı dostu bir arayüzle sunularak, kullanıcıların hattıyla ilgili kontrolünü artırmayı hedefler.
+![image](https://github.com/Entrocelll-Project/Project-Manager-/assets/135699517/e241d639-d974-4de0-9083-0d13001cb21e)
+![image](https://github.com/Entrocelll-Project/Project-Manager-/assets/135699517/1482d806-ff5c-450c-bfb9-f5cfaae4ad49)
+![image](https://github.com/Entrocelll-Project/Project-Manager-/assets/135699517/3b73993f-3c96-4576-8deb-5b1de18b3929)
+![image](https://github.com/Entrocelll-Project/Project-Manager-/assets/135699517/928df269-d0c9-48a9-b566-15204bc274e4)
+![image](https://github.com/Entrocelll-Project/Project-Manager-/assets/135699517/e0ef3fab-77ca-4992-b54e-e7ba1bee5140)
 
-![image](https://github.com/Entrocelll-Project/Project-Manager-/assets/135699517/a38a31f9-7e04-4c8c-ac55-29b9d444acbe)
-Uygulamamızın bu kısmında Kullanıcı giriş ve  uygulamamıza üye olabilecektir 
-![image](https://github.com/Entrocelll-Project/Project-Manager-/assets/135699517/2b199d33-89dc-4c04-abfa-fde9035f9bd3)
-Kullanıcı sms , dakika ve internet/ kalan kullanım haklarını görüntüleyebilecektir 
-![image](https://github.com/Entrocelll-Project/Project-Manager-/assets/135699517/f4e55f4f-1466-4645-9973-607e8b8efdb9)
-Kullanıcı bilgilerini girerek üye olabilecektir
-![image](https://github.com/Entrocelll-Project/Project-Manager-/assets/135699517/5fdcdfaf-bd44-47b7-a455-d31f0026634f)
-Kullanıcı Anasayfasıdır  Profil İconuna sahip olan kısımda kullancı profil bilgilerini görüntüleyebilecektir . Telefon ikonuna sahip olan kısımda kullanıcı kendisine ait arama kayıtarını görüntüleyebilecektir. Tarih ikonunda kalan kullanım haklarını (sms/internet/ dakika) görüntüleyebilecektir.
-![image](https://github.com/Entrocelll-Project/Project-Manager-/assets/135699517/1f4a960e-3d95-4da3-bf41-2e226f46fcbe)
-
- Hediye ikonunda üyelerimize random bir şekilde dakika sms ya da internet hediyesi verilebilecektir . 
-![image](https://github.com/Entrocelll-Project/Project-Manager-/assets/135699517/d8967963-74d1-4e86-b8f5-286e8daa9f24)
-Uygulamamızda kullanıcı girdiği  bilgilere göre kullanıcı bilgilerini görüntüleyebilecektir 
 
 
